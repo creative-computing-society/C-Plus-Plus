@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/TheAlgorithms/C-Plus-Plus?color=red&style=flat-square)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/TheAlgorithms/C-Plus-Plus?color=green&style=flat-square)
 
-### All algorithms implemented in C++ (for education)
+### All algorithms implemented in C/C++ (for education)
 The implementations are for learning purpose. They may be less efficient than the implementation in the standard library.
 
 ### Contribute Guidelines
